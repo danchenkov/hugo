@@ -1,0 +1,3 @@
+# Hugo
+
+Learning Hugo
